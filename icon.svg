@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#059669"/>
+  <!-- Bodega awning -->
+  <path d="M96 160h320l-24 64H120z" fill="#ffffff" opacity="0.95"/>
+  <path d="M120 224c0 16-12 28-28 28s-28-12-28-28l20-64h36z" fill="#34d399"/>
+  <path d="M184 224c0 16-12 28-28 28s-28-12-28-28l8-64h48z" fill="#ffffff"/>
+  <path d="M248 224c0 16-12 28-28 28s-28-12-28-28l8-64h48z" fill="#34d399"/>
+  <path d="M312 224c0 16-12 28-28 28s-28-12-28-28l8-64h48z" fill="#ffffff"/>
+  <path d="M376 224c0 16-12 28-28 28s-28-12-28-28l8-64h48z" fill="#34d399"/>
+  <path d="M440 224c0 16-12 28-28 28s-28-12-28-28l-8-64h36z" fill="#ffffff"/>
+  <!-- Store building -->
+  <rect x="112" y="252" width="288" height="160" rx="8" fill="#ffffff"/>
+  <!-- Door and window -->
+  <rect x="216" y="292" width="80" height="120" rx="4" fill="#059669"/>
+  <rect x="136" y="292" width="56" height="56" rx="4" fill="#e2e8f0"/>
+  <rect x="320" y="292" width="56" height="56" rx="4" fill="#e2e8f0"/>
+  <!-- QR / Basket symbol badge -->
+  <circle cx="384" cy="144" r="44" fill="#10b981" stroke="#ffffff" stroke-width="8"/>
+  <path d="M370 144h28M384 130v28" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+</svg>
